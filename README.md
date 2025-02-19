@@ -14,7 +14,6 @@ Este repositorio contiene un análisis del **Churn (deserción de clientes)** en
 ## 🛠️ Tecnologías utilizadas
 - **Python** 🐍
 - **Pandas** para análisis de datos.
-- **Matplotlib y Seaborn** para visualización.
 - **Git y GitHub** para control de versiones.
 
 ## 🚀 Cómo usar este proyecto
